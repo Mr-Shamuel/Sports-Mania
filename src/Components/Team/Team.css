@@ -1,0 +1,30 @@
+
+.teamcon{
+  
+    margin:20px 14px ;
+  
+ display: inline-block;
+ 
+  
+
+}
+
+.badgelogo{
+   width:30px;
+    
+}
+
+.linkbtn{
+   
+    text-decoration: none;
+}
+.cardContainer{
+  
+    transition:.4s ease; 
+    height:350px;
+   
+}
+.cardContainer:hover{
+    box-shadow: 5px 5px 15px 15px #f02009;
+   
+}
