@@ -12,7 +12,7 @@ import League from './Components/League/League';
 import TeamDetails from './Components/TeamDetails/TeamDetails';
 import NotMatch from './Components/NotMatch/NotMatch';
 import About from './Components/About/About';
-// import Team from './Components/Team/Team';
+import './Responsive.css'
 
 function App() {
     return ( <div className = "App" >

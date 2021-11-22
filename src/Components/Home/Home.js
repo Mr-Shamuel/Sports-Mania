@@ -3,6 +3,7 @@ import League from '../League/League';
 import './Home.css'
 import { Navbar,Container,Nav } from 'react-bootstrap';
 
+
 const Home = () => {
     return (
      
@@ -33,7 +34,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <div className="main bg-dark ">
+            <div className="main bg-dark  ">
                 <League></League>
             </div>
 
